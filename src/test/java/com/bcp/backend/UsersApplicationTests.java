@@ -1,4 +1,4 @@
-package com.bcp.backend.users;
+package com.bcp.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

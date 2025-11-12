@@ -1,4 +1,4 @@
-package com.bcp.backend.users;
+package com.bcp.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
